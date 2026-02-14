@@ -21,6 +21,12 @@
     <version>7.0.4</version>
     <scope>compile</scope>
 </dependency>
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-sdbc</artifactId>
+    <version>7.0.4</version>
+    <scope>database</scope>
+</dependency>
 
 
   </dependencies>
